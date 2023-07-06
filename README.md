@@ -29,23 +29,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lycp152&show_icons=true&locale=en" alt="lycp152" /></p>
 
-<!--START_SECTION:lapras-card-->
-<!--END_SECTION:lapras-card-->
-name: LAPRAS Card
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  update-card:
-    name: LAPRAS Card
-    runs-on: ubuntu-latest
-    steps:
-      - uses: kawamataryo/lapras-card-readme@main
-        with:
-          SHARE_ID: "CCRGSMT"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
