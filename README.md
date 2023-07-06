@@ -28,13 +28,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lycp152&show_icons=true&locale=en&layout=compact" alt="lycp152" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lycp152&show_icons=true&locale=en" alt="lycp152" /></p>
-
-          # 以下オプション
-          # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
-          # ICON_FIRST: "#030E21"
-          # ICON_SECOND: "#1688BF"
-          # BACKGROUND_FIRST: "#020E27"
-          # BACKGROUND_SECOND: "#0E5593"
-          # LANG: "ja"
-          # CARD_WIDTH: "400"
-          # UPDATE_TIME: "true"
